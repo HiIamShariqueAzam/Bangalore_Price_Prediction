@@ -1,1 +1,1 @@
-
+This project predicts house prices in Bangalore using the Ridge regression algorithm. It analyzes various features such as location, size, and amenities to provide accurate price estimates. The project includes a user-friendly Flask web interface where users can input property details and get instant predictions.
